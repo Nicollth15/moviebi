@@ -1,0 +1,373 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#menu{
+	text-align: center;
+	width: 100%;
+	border:1px solid #000;
+	padding:20px 0; 
+	background: #000;
+}
+#menu img{
+	vertical-align: middle;
+}
+#menu a{
+	color: #FFF; text-decoration: none;padding: 5px 40px; font-size: 14px;
+    font-family:'Quicksand', sans-serif;
+}
+#menu a:hover{
+	border-bottom: 2px solid #FFF;
+}
+#cabecera{
+background-image: url(../img/reparto.jpg);
+background-attachment: fixed;
+width: 85%;
+margin: 60px auto; 
+padding-bottom: 200px;
+}
+#logo img{
+	text-align: left;
+	margin: 440px 0 30px 40px;
+	float: left;
+
+}
+h1{
+	text-align:center;
+	font-family: 'Staatliches', cursive;
+	font-size: 90px;
+	padding-top: 200px;
+	letter-spacing:4px;
+	color: #FFF;
+	position: relative;
+}
+
+#banner{
+	background: url(../img/skyler.jpg);
+	background-repeat:no-repeat;
+	width: 280px;
+	height: 300px;
+	margin:20px 10px;
+	color: #FF5757;
+	position: relative;
+	display: inline-block;
+	border: 1px solid black;
+}
+#banner1{
+	background: url(../img/sophia.jpg);
+	background-repeat:no-repeat;
+	width: 280px;
+	height: 300px;
+	margin:20px 10px;
+	color: #FFF;
+	position: relative;
+	display: inline-block;
+	border: 1px solid black;
+}
+#banner2{
+	background: url(../img/kara.jpg);
+	background-repeat:no-repeat;
+	width: 280px;
+	height: 300px;
+	margin:20px 10px;
+	color: #5271FF;
+	position: relative;
+	display: inline-block;
+	border: 1px solid black;
+}
+#banner3{
+	background: url(../img/hire.jpg);
+	background-repeat:no-repeat;
+	width: 280px;
+	height: 300px;
+	margin:20px 10px;
+	color:#FFF;
+	position: relative;
+	display: inline-block;
+	border: 1px solid black;
+}
+#banner4{
+	background: url(../img/barbara.jpg);
+	background-repeat:no-repeat;
+	width: 280px;
+	height: 300px;
+	margin:20px 10px;
+	color: #FF5757;
+	position: relative;
+	display: inline-block;
+	border: 1px solid black;
+}
+#banner5{
+	background: url(../img/renee.jpg);
+	background-repeat:no-repeat;
+	width: 280px;
+	height: 300px;
+	margin:20px 10px;
+	color:#5271FF;
+	position: relative;
+	display: inline-block;
+	border: 1px solid black;
+}
+#banner6{
+	background: url(../img/tristan.jpg);
+	background-repeat:no-repeat;
+	width: 280px;
+	height: 300px;
+	margin:20px 10px;
+	color: #FFF;
+	position: relative;
+	display: inline-block;
+	border: 1px solid black;
+}
+#banner7{
+	background: url(../img/jaron.jpg);
+	background-repeat:no-repeat;
+	width: 280px;
+	height: 300px;
+	margin:20px 10px;
+	color:#FF5757;
+	position: relative;
+	display: inline-block;
+	border: 1px solid black;
+}
+#banner8{
+	background: url(../img/jeff.png);
+	background-repeat:no-repeat;
+	width: 280px;
+	height: 300px;
+	margin:20px 10px;
+	color: #5271FF;
+	position: relative;
+	display: inline-block;
+	border: 1px solid black;
+}
+#banner9{
+	background: url(../img/justin.jpg);
+	background-repeat:no-repeat;
+	width: 280px;
+	height: 300px;
+	margin:20px 10px;
+	color: #FFF;
+	position: relative;
+	display: inline-block;
+	border: 1px solid black;
+}
+#banner10{
+	background: url(../img/shoshana.jpg);
+	background-repeat:no-repeat;
+	width: 280px;
+	height: 300px;
+	margin:20px 10px;
+	color: #FF5757;
+	position: relative;
+	display: inline-block;
+	border: 1px solid black;
+}
+#banner11{
+	background: url(../img/roger.jpg);
+	background-repeat:no-repeat;
+	width: 280px;
+	height: 300px;
+	margin:20px 10px;
+	color: #5271FF;
+	position: relative;
+	display: inline-block;
+	border: 1px solid black;
+}
+#banner12{
+	background: url(../img/guillaume.jpg);
+	background-repeat:no-repeat;
+	width: 280px;
+	height: 300px;
+	margin:20px 10px;
+	color: #000;
+	position: relative;
+	display: inline-block;
+	border: 1px solid black;
+}
+#banner13{
+	background: url(../img/cathy.jpg);
+	background-repeat:no-repeat;
+	width: 280px;
+	height: 300px;
+	margin:20px 10px;
+	color: #FFF;
+	position: relative;
+	display: inline-block;
+	border: 1px solid black;
+}
+#banner14{
+	background: url(../img/anna.jpg);
+	background-repeat:no-repeat;
+	width: 280px;
+	height: 300px;
+	margin:20px 10px;
+	color: #FF5757;
+	position: relative;
+	display: inline-block;
+	border: 1px solid black;
+}
+#banner15{
+	background: url(../img/aza.jpg);
+	background-repeat:no-repeat;
+	width: 280px;
+	height: 300px;
+	margin:20px 10px;
+	color: #FFF;
+	position: relative;
+	display: inline-block;
+	border: 1px solid black;
+}
+#banner16{
+	background: url(../img/sandy.jpg);
+	background-repeat:no-repeat;
+	width: 280px;
+	height: 300px;
+	margin:20px 10px;
+	color: #FF5757;
+	position: relative;
+	display: inline-block;
+	border: 1px solid black;
+}
+#banner17{
+	background: url(../img/chamath.jpg);
+	background-repeat:no-repeat;
+	width: 280px;
+	height: 300px;
+	margin:20px 10px;
+	color: #5271FF;
+	position: relative;
+	display: inline-block;
+	border: 1px solid black;
+}
+#banner18{
+	background: url(../img/rashida.jpg);
+	background-repeat:no-repeat;
+	width: 280px;
+	height: 300px;
+	margin:20px 10px;
+	color: #000;
+	position: relative;
+	display: inline-block;
+	border: 1px solid black;
+}
+#banner19{
+	background: url(../img/tim.jpg);
+	background-repeat:no-repeat;
+	width: 280px;
+	height: 300px;
+	margin:20px 10px;
+	color: #FFF;
+	position: relative;
+	display: inline-block;
+	border: 1px solid black;
+}
+#galeria h2{
+	position: absolute;
+	left: 35px;
+	top:268px;
+	font-size: 18px;
+	font-family: 'Patua One', cursive;
+}
+#galeria h3{
+	position: absolute;
+	left: 30px;
+	top: 250px;
+	font-size: 20px;
+	font-family: 'Patua One', cursive;
+
+}
+#galeria{
+	 width: 1600px; margin: 0 auto;
+	 padding-left: 45px;
+}
+h4{
+font-family: 'Mate SC', serif;
+font-size: 30px;
+padding:15px 5px 15px 5px ;
+}
+p{
+display: inline-block;
+padding: 25px 125px;
+font-family: 'Quicksand', sans-serif;
+font-size: 18px;
+text-align: center;
+}
+.parrafo{
+display: inline-block;
+padding: 25px 90px;
+font-family: 'Quicksand', sans-serif;
+font-size: 18px;
+text-align: center;
+}
+.parrafo1{
+display: inline-block;
+padding: 25px 43px;
+font-family:'Quicksand', sans-serif;
+font-size: 18px;
+text-align: center;
+}
+.parrafo2{
+display: inline-block;
+padding: 25px 5px 25px 160px;
+font-family:'Quicksand', sans-serif;
+font-size: 18px;
+text-align: center;
+}
+.parrafo3{
+display: inline-block;
+padding: 25px 5px 25px 50px;
+font-family: 'Quicksand', sans-serif;
+font-size: 18px;
+text-align: center;
+}
+.parrafo4{
+display: inline-block;
+padding: 25px 5px 25px 145px;
+font-family: 'Quicksand', sans-serif;
+font-size: 18px;
+text-align: center;
+}
+.parrafo5{
+display: inline-block;
+padding: 25px 5px 25px 120px;
+font-family: 'Quicksand', sans-serif;
+font-size: 18px;
+text-align: center;
+}
+.parrafo6{
+display: inline-block;
+padding: 25px 5px 25px 80px;
+font-family: 'Quicksand', sans-serif;
+font-size: 18px;
+text-align: center;
+}
+.parrafo7{
+display: inline-block;
+padding: 25px 5px 25px 60px;
+font-family: 'Quicksand', sans-serif;
+font-size: 18px;
+text-align: center;
+}
+#footer{
+	background-color: #000; text-align: center; position: relative; 
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+#footer p{
+    color:#FFF;
+    font-size:18px;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+#footer img{
+    position: absolute; right: 10px; top: 50%; margin-top:-8px;
+}
+#redes{
+   position: fixed; right:0; top: 500px; width: 36px;
+}
+
+
+
