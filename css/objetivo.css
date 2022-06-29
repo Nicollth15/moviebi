@@ -1,0 +1,137 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#menu{
+	text-align: center;
+	width: 100%;
+	border:1px solid #000;
+	padding:20px 0; 
+	background: #000;
+}
+#menu img{
+	vertical-align: middle;
+}
+#menu a{
+	color: #FFF; text-decoration: none;padding: 5px 40px; font-size: 14px;
+    font-family: 'Quicksand', sans-serif;
+}
+#menu a:hover{
+	border-bottom: 2px solid #FFF;
+}
+#cabecera{
+background-image: url(../img/objetivo.jpg);
+background-attachment: fixed;
+width: 85%;
+margin: 60px auto; 
+padding-bottom: 200px;
+}
+#logo img{
+	text-align: left;
+	margin: 500px 0 0 40px;
+	float: left;
+
+}
+h1{
+	text-align:center;
+	font-family: 'Staatliches', cursive;
+	font-size: 90px;
+	padding-top: 300px;
+	letter-spacing:4px;
+	color: #FFF;
+	position: relative;
+}
+
+#contenido{
+  position: relative;
+  background:#FFF;
+  width: 1200px; margin: 0 auto; 
+}
+#contenido hr{
+    border: none; border-top: 1px solid #CCC; margin: 40px 0; 
+ }
+
+#objetivo{
+    width: 50%;
+	height:500px;
+	vertical-align: middle;
+}
+
+
+#contenido img{
+	width: 50%; float: right; margin-left:20px;
+}
+
+#objetivo p{
+
+font-family:'Quicksand', sans-serif;
+padding:0 30px;
+color: #000;
+line-height: 2;
+}
+#objetivo h2{
+ background: url(../img/lupa1.png) no-repeat left center;
+    padding-left: 80px; 
+    margin-bottom: 20px;
+   font-family: 'Cinzel', serif;
+	font-size: 35px;
+	color:black ;
+}
+#contenido2{
+  position: relative;
+  background:#FFF;
+  width: 1200px; margin: 0 auto; 
+  padding-bottom: 200px;
+}
+
+#enfoque{
+	width:50%;
+	height:500px;
+	vertical-align: middle;
+	float: right;
+}
+#contenido2 img{
+	width:50%;
+}
+#enfoque p{
+font-family: 'Quicksand', sans-serif;
+padding:0 30px;
+color: #000;
+line-height:2;
+
+}
+
+#enfoque h2{
+	 background: url(../img/enfoque.png) no-repeat left center;
+    padding-left: 80px;
+    margin-left: 20px; 
+    margin-bottom: 20px;
+   font-family: 'Cinzel', serif;
+	font-size: 35px;
+	color:black ;
+}
+
+
+#dos{
+	border: none; border-top: 1px solid #CCC; margin: 40px 15px; 
+}
+
+#footer{
+	background-color: #000; text-align: center; position: relative; 
+	padding-top: 55px;
+	padding-bottom: 55px;
+}
+#footer p{
+    color:#FFF;
+    font-size:18px;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+#footer img{
+    position: absolute; right: 10px; top: 50%; margin-top:-8px;
+}
+#redes{
+   position: fixed; right:0; top: 500px; width: 36px;
+}
